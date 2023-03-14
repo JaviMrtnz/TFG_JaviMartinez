@@ -5,7 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Maps/Untitled.umap"
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Maps/Untitled.umap",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Blurprint/BP_UnderWater.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/PruebaAgua/sGVEMsr.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/PruebaAgua/ColoredFog.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/PruebaAgua/ColoredFog_Inst.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Maps/Small.umap",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Materials/M_URockA.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Materials/M_URockB.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Materials/M_URockC.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Materials/M_URockD.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/Materials/M_URockE.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/StaticMesh/SM_URockA.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/StaticMesh/SM_URockB.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/StaticMesh/SM_URockC.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/StaticMesh/SM_URockD.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/StaticMesh/SM_URockE.uasset",
+				"E:/Documentos/GitHub/TFG_JaviMartinez/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/0K/5FJCT73D5IO3CT0TQ9H7GA.uasset"
 			]
 		}
 	]
